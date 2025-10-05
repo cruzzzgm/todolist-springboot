@@ -1,7 +1,7 @@
 # To-Do List API | Spring Boot
 
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Docker](https://img.shields.io/badge/Docker-Build-blue.svg)](https://www.docker.com/)
 [![Render](https://img.shields.io/badge/Deploy-Render-cyan.svg)](https://render.com/)
 [![Status](https://img.shields.io/badge/Status-Online-brightgreen.svg)](https://todolist-springboot-1-mh2v.onrender.com)
@@ -42,5 +42,5 @@ Este projeto foi estruturado para ser robusto, escalável e de fácil manutenç�
 
 | Tecnologia      | Versão/Tipo | Descrição                                             |
 | :-------------- | :---------- | :---------------------------------------------------- |
-| **Java** | 17          | Linguagem principal da aplicação.                     |
-| **Spring Boot** |
+| **Java** | 17 (LTS)    | Linguagem principal da aplicação.                     |
+| **Spring Boot** | 3.5.5       | Framework principal para construção da API.           |
