@@ -10,15 +10,15 @@
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Docker](https://img.shields.io/badge/Docker-Build-blue.svg)](https://www.docker.com/)
 [![Render](https://img.shields.io/badge/Deploy-Render-cyan.svg)](https://render.com/)
-[![Status](https://img.shields.io/badge/Status-Online-brightgreen.svg)](SUA-URL-DO-RENDER-AQUI/tasks)
+[![Status](https://img.shields.io/badge/Status-Online-brightgreen.svg)](https://todolist-springboot-1-mh2v.onrender.com)
 
 API RESTful para gerenciamento de tarefas, desenvolvida com foco em boas práticas de arquitetura de software, Clean Code e padrões de mercado do ecossistema Spring.
 
-**🚀 A API está no ar e pode ser testada em:** `(https://todolist-springboot-1-mh2v.onrender.com)`
+**A API está no ar e pode ser testada em:** `(https://todolist-springboot-1-mh2v.onrender.com)`
 
 ---
 
-## 📋 Features
+##Features
 
 -   **Autenticação de Usuários:** Sistema de criação e autenticação de usuários com senha criptografada (BCrypt) via Basic Auth.
 -   **Gerenciamento de Tarefas (CRUD):**
@@ -33,7 +33,7 @@ API RESTful para gerenciamento de tarefas, desenvolvida com foco em boas prátic
 
 ---
 
-## 🏛️ Arquitetura e Padrões
+##Arquitetura e Padrões
 
 Este projeto foi estruturado para ser robusto, escalável e de fácil manutenção, aplicando os seguintes conceitos:
 
@@ -44,7 +44,7 @@ Este projeto foi estruturado para ser robusto, escalável e de fácil manutenç�
 
 ---
 
-## 🛠️ Tecnologias
+##Tecnologias
 
 | Tecnologia | Versão/Tipo | Descrição |
 | :--- | :--- | :--- |
@@ -59,12 +59,12 @@ Este projeto foi estruturado para ser robusto, escalável e de fácil manutenç�
 
 ---
 
-## Endpoints da API
+##Endpoints da API
 
-### Autenticação
+###Autenticação
 A autenticação é feita via **Basic Auth**. Utilize o `username` e `password` do usuário criado nos endpoints que requerem autenticação.
 
-### Usuários
+###Usuários
 | Verbo | Endpoint | Descrição |
 | :--- | :--- | :--- |
 | `POST` | `/users` | Cria um novo usuário. |
@@ -78,7 +78,7 @@ A autenticação é feita via **Basic Auth**. Utilize o `username` e `password` 
 }
 ````
 
-### Tarefas
+###Tarefas
 
 | Verbo | Endpoint | Descrição |
 | :--- | :--- | :--- |
@@ -102,5 +102,6 @@ A autenticação é feita via **Basic Auth**. Utilize o `username` e `password` 
 
 ```
 ```
+
 
 
