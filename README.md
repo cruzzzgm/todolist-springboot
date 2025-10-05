@@ -1,7 +1,7 @@
 
 -----
 
-### `README.md` (Versão Profissional)
+### `README.md`
 
 ````markdown
 # To-Do List API | Spring Boot
@@ -102,6 +102,7 @@ A autenticação é feita via **Basic Auth**. Utilize o `username` e `password` 
 
 ```
 ```
+
 
 
 
