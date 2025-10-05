@@ -1,11 +1,4 @@
 
-### Como Usar
-
-1.  Copie todo o conteúdo abaixo.
-2.  Cole no seu arquivo `README.md` no VS Code.
-3.  **Importante:** Substitua o texto `SUA-URL-DO-RENDER-AQUI` pela sua URL pública do Render.
-4.  Envie a atualização para o GitHub (`git add`, `git commit`, `git push`).
-
 -----
 
 ### `README.md` (Versão Profissional)
@@ -21,7 +14,7 @@
 
 API RESTful para gerenciamento de tarefas, desenvolvida com foco em boas práticas de arquitetura de software, Clean Code e padrões de mercado do ecossistema Spring.
 
-**🚀 A API está no ar e pode ser testada em:** `SUA-URL-DO-RENDER-AQUI`
+**🚀 A API está no ar e pode ser testada em:** `(https://todolist-springboot-1-mh2v.onrender.com)`
 
 ---
 
@@ -109,4 +102,5 @@ A autenticação é feita via **Basic Auth**. Utilize o `username` e `password` 
 
 ```
 ```
+
 
