@@ -1,8 +1,3 @@
-Com certeza\! Um `README.md` limpo e profissional é o melhor cartão de visitas para um projeto no GitHub. Ele deve ser informativo, fácil de ler e visualmente agradável.
-
-A estrutura abaixo usa "badges" (selos visuais), uma organização clara e uma linguagem direta, focada em demonstrar o valor do projeto.
-
------
 
 ### Como Usar
 
@@ -114,3 +109,4 @@ A autenticação é feita via **Basic Auth**. Utilize o `username` e `password` 
 
 ```
 ```
+
