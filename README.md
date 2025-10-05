@@ -1,3 +1,21 @@
+Com certeza\! Um `README.md` limpo e profissional é o melhor cartão de visitas para um projeto no GitHub. Ele deve ser informativo, fácil de ler e visualmente agradável.
+
+A estrutura abaixo usa "badges" (selos visuais), uma organização clara e uma linguagem direta, focada em demonstrar o valor do projeto.
+
+-----
+
+### Como Usar
+
+1.  Copie todo o conteúdo abaixo.
+2.  Cole no seu arquivo `README.md` no VS Code.
+3.  **Importante:** Substitua o texto `SUA-URL-DO-RENDER-AQUI` pela sua URL pública do Render.
+4.  Envie a atualização para o GitHub (`git add`, `git commit`, `git push`).
+
+-----
+
+### `README.md` (Versão Profissional)
+
+````markdown
 # To-Do List API | Spring Boot
 
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.java.com)
@@ -70,3 +88,29 @@ A autenticação é feita via **Basic Auth**. Utilize o `username` e `password` 
     "name": "Meu Nome",
     "password": "minha_senha_123"
 }
+````
+
+### Tarefas
+
+| Verbo | Endpoint | Descrição |
+| :--- | :--- | :--- |
+| `POST` | `/tasks` | Cria uma nova tarefa (requer autenticação). |
+| `GET` | `/tasks` | Lista todas as tarefas do usuário (requer autenticação). |
+| `PUT` | `/tasks/{id}` | Atualiza uma tarefa existente (requer autenticação). |
+
+**Exemplo de corpo (request) para `POST /tasks`:**
+
+```json
+{
+    "title": "Finalizar o README do projeto",
+    "description": "Usar o template profissional com badges e tabelas.",
+    "startAt": "2025-10-06T10:00:00",
+    "endAt": "2025-10-06T12:00:00",
+    "priority": "Alta"
+}
+```
+
+
+
+```
+```
